@@ -1,0 +1,13 @@
+body{
+    background-color: #081b29;
+}
+img{
+    border-radius: 50%;
+}
+.container0{
+    background-color: #081b29;
+    color : whitesmoke;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 20px;
+}
